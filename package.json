@@ -9,12 +9,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/3nvy/node-googlecharts-1"
+    "url": "git+https://github.com/lmitdev/node-googlecharts"
   },
   "bugs": {
-    "url": "https://github.com/3nvy/node-googlecharts-1/issues"
+    "url": "https://github.com/lmitdev/node-googlecharts/issues"
   },
-  "homepage": "https://github.com/3nvy/node-googlecharts-1#readme",
+  "homepage": "https://github.com/lmitdev/node-googlecharts#readme",
   "main": "src/index.js",
   "scripts": {
     "bin": "NODE_ICU_DATA=node_modules/full-icu node bin/node-googlecharts",
